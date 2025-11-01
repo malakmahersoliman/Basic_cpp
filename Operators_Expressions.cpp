@@ -7,6 +7,8 @@ using namespace std;
 int main() {
     int a = 10;
     int b = 3;
+    //Integer division discards decimals.
+    //Boolean expressions evaluate to either true (1) or false (0).
 
     // Arithmetic Operators
     cout << "a + b = " << a + b << endl; // Addition
